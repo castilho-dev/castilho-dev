@@ -146,6 +146,8 @@
 			<img height="35px" src="https://img.shields.io/badge/TYPEORM-0B0F12?style=flat-square&logo=typeorm&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/TYPESCRIPT-0B0F12?style=flat-square&logo=typescript&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/UBUNTU-0B0F12?style=flat-square&logo=ubuntu&logoColor=white"/>
+			<img height="35px" src="https://img.shields.io/badge/UNITY-0B0F12?style=flat-square&logo=unity&logoColor=white"/>
+			<img height="35px" src="https://img.shields.io/badge/UNREAL_ENGINE-0B0F12?style=flat-square&logo=unrealengine&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/VIRTUALBOX-3DA47A?style=flat-square&logo=virtualbox&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-3DA47A?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/VITE-0B0F12?style=flat-square&logo=vite&logoColor=white"/>
