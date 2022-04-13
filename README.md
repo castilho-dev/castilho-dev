@@ -17,7 +17,7 @@
 		<summary>𝒞𝓁𝒾𝒸𝓀 𝓉𝑜 𝑒𝓍𝓅𝒶𝓃𝒹!</summary>
 		<div align="center">
 			<h3>
-				<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=5500&color=3DA47A&center=true&vCenter=true&lines=Unlocked+skills%3A+27%2F137"/>
+				<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=5500&color=3DA47A&center=true&vCenter=true&lines=Unlocked+skills%3A+27%2F139"/>
 			</h3>
 			<img height="35px" src="https://img.shields.io/badge/2FA-0B0F12?style=flat-square&logo=2fa&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/ADOBE_ACROBAT-0B0F12?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
