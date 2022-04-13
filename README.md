@@ -70,7 +70,7 @@
 			<img height="35px" src="https://img.shields.io/badge/GIT-3DA47A?style=flat-square&logo=git&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/GITHUB-3DA47A?style=flat-square&logo=github&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/GITHUB_ACTIONS-0B0F12?style=flat-square&logo=githubactions&logoColor=white"/>
-			<img height="35px" src="https://img.shields.io/badge/GITHUB_PAGES-0B0F12?style=flat-square&logo=github-pages&logoColor=white"/>
+			<img height="35px" src="https://img.shields.io/badge/GITHUB_PAGES-3DA47A?style=flat-square&logo=github-pages&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/GOOGLE_CHROME-3DA47A?style=flat-square&logo=googlechrome&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/GOOGLE_CLOUD-0B0F12?style=flat-square&logo=googlecloud&logoColor=white"/>
 			<img height="35px" src="https://img.shields.io/badge/GRAPHQL-0B0F12?style=flat-square&logo=graphql&logoColor=white"/>
